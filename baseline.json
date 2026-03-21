@@ -1,0 +1,306 @@
+{
+  "last_updated_at": 1770706901,
+  "host_info": {
+    "hostname": "ll_ll",
+    "os": "Microsoft Windows 11 Home China 10.0.26200.7623 Build 26200.7623",
+    "kernel": "10.0.26200.7623 Build 26200.7623",
+    "ips": [
+      "10.10.10.1",
+      "169.254.141.156",
+      "169.254.174.143",
+      "169.254.21.38",
+      "169.254.232.140",
+      "169.254.244.126",
+      "169.254.39.242",
+      "172.16.1.100",
+      "192.168.1.64",
+      "192.168.137.1",
+      "192.168.139.1",
+      "192.168.2.1",
+      "192.168.3.1",
+      "192.168.4.1",
+      "192.168.5.1",
+      "192.168.52.1"
+    ],
+    "ports": {
+      "10191/TCP": {
+        "port": 10191,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 6072
+      },
+      "12625/TCP": {
+        "port": 12625,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 28044
+      },
+      "135/TCP": {
+        "port": 135,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 1820
+      },
+      "139/TCP": {
+        "port": 139,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 4
+      },
+      "14013/TCP": {
+        "port": 14013,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11080
+      },
+      "14016/TCP": {
+        "port": 14016,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11080
+      },
+      "14019/TCP": {
+        "port": 14019,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11080
+      },
+      "14022/TCP": {
+        "port": 14022,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11080
+      },
+      "14023/TCP": {
+        "port": 14023,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11080
+      },
+      "14190/TCP": {
+        "port": 14190,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 25964
+      },
+      "17788/TCP": {
+        "port": 17788,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 25208
+      },
+      "31797/TCP": {
+        "port": 31797,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 25964
+      },
+      "3306/TCP": {
+        "port": 3306,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 2640
+      },
+      "33060/TCP": {
+        "port": 33060,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 2640
+      },
+      "33211/TCP": {
+        "port": 33211,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 5932
+      },
+      "33331/TCP": {
+        "port": 33331,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 18696
+      },
+      "3443/TCP": {
+        "port": 3443,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 9580
+      },
+      "35432/TCP": {
+        "port": 35432,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 8756
+      },
+      "42050/TCP": {
+        "port": 42050,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 31004
+      },
+      "4222/TCP": {
+        "port": 4222,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 8656
+      },
+      "445/TCP": {
+        "port": 445,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 4
+      },
+      "4709/TCP": {
+        "port": 4709,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 28044
+      },
+      "49664/TCP": {
+        "port": 49664,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 1488
+      },
+      "49665/TCP": {
+        "port": 49665,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 1328
+      },
+      "49668/TCP": {
+        "port": 49668,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 2424
+      },
+      "49669/TCP": {
+        "port": 49669,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 3824
+      },
+      "49670/TCP": {
+        "port": 49670,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 5084
+      },
+      "49674/TCP": {
+        "port": 49674,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 7520
+      },
+      "49711/TCP": {
+        "port": 49711,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 1468
+      },
+      "5040/TCP": {
+        "port": 5040,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11836
+      },
+      "51000/TCP": {
+        "port": 51000,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 24160
+      },
+      "5173/TCP": {
+        "port": 5173,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 13200
+      },
+      "5216/TCP": {
+        "port": 5216,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 9928
+      },
+      "5354/TCP": {
+        "port": 5354,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 5860
+      },
+      "7680/TCP": {
+        "port": 7680,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 28592
+      },
+      "7880/TCP": {
+        "port": 7880,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 10312
+      },
+      "7897/TCP": {
+        "port": 7897,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 18864
+      },
+      "80/TCP": {
+        "port": 80,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 8168
+      },
+      "8000/TCP": {
+        "port": 8000,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 11092
+      },
+      "8080/TCP": {
+        "port": 8080,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 12252
+      },
+      "8888/TCP": {
+        "port": 8888,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 12252
+      },
+      "902/TCP": {
+        "port": 902,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 6176
+      },
+      "9097/TCP": {
+        "port": 9097,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 18864
+      },
+      "912/TCP": {
+        "port": 912,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 6176
+      },
+      "9197/TCP": {
+        "port": 9197,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 6072
+      },
+      "9996/TCP": {
+        "port": 9996,
+        "protocol": "TCP",
+        "state": "LISTEN",
+        "pid": 6292
+      }
+    },
+    "users": {},
+    "timestamp": 1770706893
+  }
+}
