@@ -96,7 +96,7 @@ def query_ip_reputation_batch(apikey, ip_list, output_file, batch_size=100):
 if __name__ == "__main__":
     # 示例输入
     input_ips = ["8.8.8.8", "1.1.1.1", "192.168.0.1", "172.16.0.1"]  # 待查询的IP列表
-    api_key = "708c58fe378840dda0f88be97affd339796f997475f24e3a94be070b47ff5957"  # 替换为实际的API Key
+    api_key = ""  # 替换为实际的API Key
     output_csv = f"./ip_reputation_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
     
     # 调用查询函数
